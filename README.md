@@ -6,8 +6,7 @@ Detta är ett repository som har skapats som en del av en uppgift på webbutveck
 - Att skapa och publicera ett repository med en README-fil på GitHub
 
 ## :rocket: För att köra projektet lokalt:
-Använd kommandot git clone tillsammans med länken till projektet ->
-git clone https://github.com/delia-sj/laboration3.git
+Använd kommandot git clone tillsammans med länken till projektet -> git clone https://github.com/delia-sj/laboration3.git
 
 ### Min GitHub-profil
 https://github.com/delia-sj
